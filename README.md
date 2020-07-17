@@ -1,6 +1,5 @@
 # Operating Systems
 Learning and a go through on Operating Systems, for course purposes.
-# Topics of Content: 
 > Maintainer - [Sanatan Shrivastava](https://sanatanshrivastava.me)
 
 # Topics of Content:

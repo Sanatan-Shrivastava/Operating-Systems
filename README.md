@@ -8,7 +8,7 @@ Learning and a go through on Operating Systems, for course purposes.
 .
 ├── Introduction and Process Management:
 │   ├── Introduction and Process Management
-│   ├── Introduction and need of operating system
+│   ├── Introduction and need of Operating Systems
 │   ├── Types of Operating Systems
 │   ├── Operating system as resource manager
 │   ├── Operating Systems services
@@ -23,8 +23,8 @@ Learning and a go through on Operating Systems, for course purposes.
 │   ├── States and transitions
 │   ├── Context Switching
 │   ├── Process Control Block
-│   ├── Basic system calls in Linux and Windows.
-│   ├── Threads - processes versus threads, kernel and user level threads and multi-threading.
+│   ├── Basic system calls in Linux and Windows
+│   ├── Threads - processes versus threads, kernel and user level threads and multi-threading
 
 18 directories, 124 files
 ```

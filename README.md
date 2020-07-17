@@ -28,3 +28,10 @@ Learning and a go through on Operating Systems, for course purposes.
 
 18 directories, 124 files
 ```
+
+## Introduction to Operarting Systems: 
+#### What is operating Systems? 
+* An *Operating Systems* is a program that manages the computer hardware. It provides a basis for application programs and acts as an intermediary between the computer user, and the computer hardware.
+* Convenient
+* Efficient
+* Combination of more than one program

@@ -23,4 +23,5 @@
 1) Scheduling becomes difficult.
 2) Main memory management is required, due to more context switch.
 3) Memory fragmentation, to store midway ran processes.
+ **Fragment - to break into pieces**
 4) Paging => Non Contiguous Memory Allocation.

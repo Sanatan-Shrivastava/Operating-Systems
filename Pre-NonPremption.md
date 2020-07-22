@@ -22,3 +22,12 @@
 - Completion Time : Process gets completed and PCB is deleted.
 - TurnAround Time = CT - AT = WT + BT [ Time spent by process in a system ]
 - Response Time : Time between a process enters a ready queue and get scheduled for CPU for very first time.
+
+### Criterias for a better Scheduling Algorithm:
+1. Average Waiting Time - better time complexity, should be less.
+2. Average Response Time - Better res time should be very less.
+3. Throughput - execution per process
+4. CPU utilization
+
+
+No algorithm follows all criterias but all are safe for certain-certain operations.

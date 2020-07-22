@@ -1,7 +1,7 @@
 #### Multiprogramming Operating System:
 
 ## Multiprogramming is not running two processes concurrently. It is executing other program if one program is on hold
-
+Context switch is so fast, that it seems as if processes or programs are running in parellel.
 ![MOS](https://www.includehelp.com/operating-systems/images/multiprogramming.jpg)
 
 1) MOS increased CPU clock utilization; Spooling was 100%

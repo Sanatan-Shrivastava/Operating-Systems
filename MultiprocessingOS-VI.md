@@ -5,6 +5,9 @@
 
        Two or more CPU with a single computer in a close communication sharing the system bus, memory and other I/O devices.
 
+
+![MOSII](https://edux.pjwstk.edu.pl/mat/264/lec/ark16/Image8183.gif)
+
 1) True concurrent execution.
 2) Symmetric => One OS control all CPU, No master - Slave architecture
 3) Anti - Symmetric => Master - Slave Architecture or Client - Server Architecture.
@@ -24,10 +27,10 @@ Only cost is of CPU, not of disks, Bus, and all components.
 
 #### Disadvantages:
 
-1) More main memory consumption
-2) More overhead, hence throughput less than ideal or expected throughput
+1. More main memory consumption
+2. More overhead, hence throughput less than ideal or expected throughput
 **Overhead - Buses, and other comps are sharing.**
-3) Quite complex architecture of the whole system.
+3. Quite complex architecture of the whole system.
 
 
 

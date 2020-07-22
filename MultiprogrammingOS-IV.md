@@ -1,6 +1,6 @@
 #### Multiprogramming Operating System:
 
-## Multiprogramming is not running two processes concurrently. It is executing other program if one program is on hold.
+## Multiprogramming is not running two processes concurrently. It is executing other program if one program is on hold
 
 ![MOS](https://www.includehelp.com/operating-systems/images/multiprogramming.jpg)
 

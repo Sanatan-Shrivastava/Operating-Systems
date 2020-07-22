@@ -3,7 +3,7 @@
 #### First Come First Serve:
 1. Simple Scheduling algorithm, it assign the process which arrives first.
 2. Easy to understand, quite simple.
-3. Implemented thorugh Queue Data Structure
+3. Implemented thorugh Queue Data Structure ---> FIFO
 4. Always Non Premptive in nature => Voluntary Releasing of CPU by any process.
 5. Average Waiting Time is not optimal.
 
